@@ -23,7 +23,7 @@
     "node-upwork": "0.0.7",
     "pkginfo": "*"
   },
-  "keywords": [
+  "keywords": [ 
     "oauth",
     "rest",
     "upwork",
